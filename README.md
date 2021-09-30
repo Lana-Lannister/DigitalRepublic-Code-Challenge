@@ -33,7 +33,7 @@ Com base na quantidade necessária o sistema deve apontar tamanhos de lata de ti
 ## Clonando e Acessando o Projeto
 ```shell
 $ git clone https://github.com/matheusjouan/DigitalRepublic-Code-Challenge.git
-$ cd digitalrepublic
+$ cd DigitalRepublic-Code-Challenge
 $ yarn install
 $ yarn start
 ```
